@@ -1,4 +1,4 @@
-# CS50 final project:Note-taking Flask Web Application with User Authentication
+Note-taking Flask Web Application with User Authentication
 
 It's a python web application, where the user can add notes, delete the notes.
 
